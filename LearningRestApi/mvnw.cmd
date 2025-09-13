@@ -22,7 +22,8 @@
 @REM Apache Maven Wrapper startup batch script, version 3.3.2
 @REM
 @REM Optional ENV vars
-@REM   MVNW_REPOURL - repo url base for downloading maven distribution
+@REM   MVNW_REPOURL - repo url base for downloading maven distribution is bad
+
 @REM   MVNW_USERNAME/MVNW_PASSWORD - user and password for downloading maven
 @REM   MVNW_VERBOSE - true: enable verbose log; others: silence the output
 @REM ----------------------------------------------------------------------------
